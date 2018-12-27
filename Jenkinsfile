@@ -7,7 +7,7 @@ pipeline{
 
         stage('Pull Repo'){
             steps {
-                git 'https://github.com/maha4iac/SKRLogin.git'
+                git 'https://github.com/ssfvc/mahaLogin.git'
                 
             }
         }
